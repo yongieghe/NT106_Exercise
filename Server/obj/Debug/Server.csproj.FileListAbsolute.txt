@@ -1,0 +1,11 @@
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\MultiChat.Server.resources
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\MultiChat.Properties.Resources.resources
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Nam2\LTMCB\MultiChat\MultiChat\bin\Debug\MultiChat.exe.config
+D:\Nam2\LTMCB\MultiChat\MultiChat\bin\Debug\MultiChat.exe
+D:\Nam2\LTMCB\MultiChat\MultiChat\bin\Debug\MultiChat.pdb
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\MultiChat.exe
+D:\Nam2\LTMCB\MultiChat\MultiChat\obj\Debug\MultiChat.pdb
